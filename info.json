@@ -1,0 +1,11 @@
+{
+  "name": "ZZRS",
+  "symbol": "ZZRS",
+  "type": "coin",
+  "decimals": 18,
+  "description": "ZZRS is a community-driven meme token on Binance Smart Chain.",
+  "website": "https://zzrs.io",
+  "explorer": "https://bscscan.com/token/0x725C09ac76Dc06415750B919A2a79cAc7A24F9A2",
+  "status": "active",
+  "id": "0x725C09ac76Dc06415750B919A2a79cAc7A24F9A2"
+}
